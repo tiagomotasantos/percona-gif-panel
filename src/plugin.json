@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "Percona Gif Panel",
+  "id": "percona-gif-panel",
+
+  "info": {
+    "description": "Percona Gif Panel",
+    "author": {
+      "name": "Tiago Mota Santos"
+    },
+    "keywords": ["Percona"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
